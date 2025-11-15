@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoSchedule</string>
+    <string name="widget_description">Shows upcoming tasks on your home screen</string>
+</resources>
